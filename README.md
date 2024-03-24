@@ -1,3 +1,3 @@
-# mouaz3a-systems
+# mouaz3a
 
-- map-reduce
+- distributed systems algorithms and concepts
